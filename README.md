@@ -33,14 +33,14 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/paolobang/portfolio.git" ><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/paolobang/portfolio" ><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://pesorudy.github.io/portfolio/" target="_blank">View Demo</a>
     ·
-    <a href="https://github.com/paolobang/portfolio.git/issues">Report Bug</a>
+    <a href="https://github.com/paolobang/portfolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/paolobang/portfolio.git/issues">Request Feature</a>
+    <a href="https://github.com/paolobang/portfolio/issues">Request Feature</a>
   </p>
 </div>
 
@@ -105,7 +105,7 @@ This is only for academic use in order to understand javascript logic for captur
 - [ ] Improve css style
 - [ ] Form contact
 
-See the [open issues](https://github.com/paolobang/portfolio.git/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/paolobang/portfolio/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -143,23 +143,23 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Rudy Huaman - [@pesorudy](https://twitter.com/pesorudy) - pesorudy@gmail.com
 
-Project Link: [https://github.com/paolobang/portfolio.git](https://github.com/paolobang/portfolio.git)
+Project Link: [https://github.com/paolobang/portfolio](https://github.com/paolobang/portfolio)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/paolobang/portfolio.git.svg?style=for-the-badge
-[contributors-url]: https://github.com/paolobang/portfolio.git/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/paolobang/portfolio.git.svg?style=for-the-badge
-[forks-url]: https://github.com/paolobang/portfolio.git/network/members
-[stars-shield]: https://img.shields.io/github/stars/paolobang/portfolio.git.svg?style=for-the-badge
-[stars-url]: https://github.com/paolobang/portfolio.git/stargazers
-[issues-shield]: https://img.shields.io/github/issues/paolobang/portfolio.git.svg?style=for-the-badge
-[issues-url]: https://github.com/paolobang/portfolio.git/issues
-[license-shield]: https://img.shields.io/github/license/paolobang/portfolio.git.svg?style=for-the-badge
-[license-url]: https://github.com/paolobang/portfolio.git/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/paolobang/portfolio.svg?style=for-the-badge
+[contributors-url]: https://github.com/paolobang/portfolio/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/paolobang/portfolio.svg?style=for-the-badge
+[forks-url]: https://github.com/paolobang/portfolio/network/members
+[stars-shield]: https://img.shields.io/github/stars/paolobang/portfolio.svg?style=for-the-badge
+[stars-url]: https://github.com/paolobang/portfolio/stargazers
+[issues-shield]: https://img.shields.io/github/issues/paolobang/portfolio.svg?style=for-the-badge
+[issues-url]: https://github.com/paolobang/portfolio/issues
+[license-shield]: https://img.shields.io/github/license/paolobang/portfolio.svg?style=for-the-badge
+[license-url]: https://github.com/paolobang/portfolio/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rudyhuaman/
-[product-screenshot]: /assets/screen.gif
+[product-screenshot]: 
