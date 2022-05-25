@@ -1,17 +1,17 @@
 
 @font-face {
     font-family: "Anek-Light";
-    src: url('/font/AnekGurmukhi-Light.ttf') format("TrueType");
+    src: url('./font/AnekGurmukhi-Light.ttf') format("TrueType");
 }
 
 @font-face {
     font-family: "Anek-Regular";
-    src: url('/font/AnekGurmukhi-Regular.ttf') format("TrueType");
+    src: url('./font/AnekGurmukhi-Regular.ttf') format("TrueType");
 }
 
 @font-face {
     font-family: "Anek-Bold";
-    src: url('/font/AnekGurmukhi-Bold.ttf') format("TrueType");
+    src: url('./font/AnekGurmukhi-Bold.ttf') format("TrueType");
 }
 
 
