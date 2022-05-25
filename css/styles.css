@@ -1,0 +1,218 @@
+
+@font-face {
+    font-family: "Anek-Light";
+    src: url('/font/AnekGurmukhi-Light.ttf') format("TrueType");
+}
+
+@font-face {
+    font-family: "Anek-Regular";
+    src: url('/font/AnekGurmukhi-Regular.ttf') format("TrueType");
+}
+
+@font-face {
+    font-family: "Anek-Bold";
+    src: url('/font/AnekGurmukhi-Bold.ttf') format("TrueType");
+}
+
+
+* { box-sizing: border-box; }
+
+body { font-family: "Anek-Light", sans-serif; }
+
+.navbar-dark .navbar-brand {  
+    font-family: "Anek-Bold";
+}
+    
+.row {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+section h1{
+    font-family: "Anek-Regular";
+    font-size: 3em;
+    overflow: hidden;
+    width: 100%;
+    animation: animtext 3s steps(80, end); 
+    transition: all cubic-bezier(0.1, 0.7, 1.0, 0.1);
+}
+@keyframes animtext { 
+ from {
+    width: 0;
+    transition: all 2s ease-in-out;
+}}
+/*****SKILLS************/
+
+.skills .progress {
+    height: 4rem;
+    display: block;
+    background: none;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.skills .progress .skill{
+    padding: 10px 0;
+    margin: 0 0 6px 0;
+    text-transform: uppercase;
+    display: block;
+    font-family: "Anek-Bold", sans-serif;
+    color: #000;
+}
+
+.skills .progress .skill .val {
+    float: right;
+    font-family: "Anek-Bold", sans-serif;
+}
+
+.skills .progress-bar-wrap {
+    background-color: rgba(225, 225, 225, 0.8);
+}
+
+.skills .progress-bar {
+    width: 1px;
+    height: 1rem;
+    transition: .9s;
+    background-color: #8873ef;
+}
+
+.card:hover{    
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 7%), 0 4px 6px -2px rgb(0 0 0 / 5%);
+    transition: all .4s ease;
+}
+
+.container.marketing{
+    padding-top: 6rem;
+    margin-bottom: 3rem;    
+}
+
+#hero{
+    transition: opacity 1000ms ease-in-out;
+    opacity: 0;
+} 
+
+.hero-text p {
+    font-size: 1.3rem;
+}
+
+.btn-primary {
+    font-family: "Anek-Regular";
+    font-size: 1.15rem;
+}
+
+section{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section:nth-child(1){
+    /* color: red; */
+}
+
+section:nth-child(2){
+    color: #42455a;
+    background: #fff; 
+} 
+
+section:nth-child(3){
+    /* color: yellow; */
+    background: #fcda69; 
+}
+
+section:nth-child(4){
+    color: #000;
+    background: #fff;
+}
+
+section:nth-child(5){
+    color: #000;
+    background: #fcda69;
+}
+
+
+section h1{
+    font-size: 2rem;
+    font-family: "Anek-Bold";
+}
+
+section p{
+    font-size: 1rem;
+    font-family: "Anek-Regular";
+}
+
+section h5{
+    font-family: "Anek-Bold";
+}
+
+section h2{
+    font-size: 3rem;
+    text-align: center;
+    font-family: "Anek-Bold";
+}
+
+section .text-container{
+     display: flex;
+}
+
+section .text-container .text-box{
+    margin: 20px;
+    padding: 20px;
+    background: #00c2cb;
+}
+
+section .text-container .text-box h3{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+  
+@media (max-width: 900px){
+    section h1{
+      font-size: 3rem;
+    }
+    section .text-container{
+      flex-direction: column;
+    }
+}
+  
+.reveal{
+    position: relative;
+    transform: translateY(150px);
+    opacity: 0;
+    transition: 1s all ease;
+}
+  
+.reveal.active{
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.bi-play-circle{
+      font-size: 3rem;
+}
+
+.btn-primary{
+  background-color: #8873ef;
+  border-color: #8873ef;
+}
+
+a{
+  color: #8873ef;
+}
+
+.btn-primary:hover{
+  
+  background-color: #6554b6;
+  border-color: #6554b6;
+}
+
+a .bi{
+    font-size: 1.5rem;
+    padding-left: .5rem;
+}
+
+a:hover {
+    color: #6554b6;
+  }
