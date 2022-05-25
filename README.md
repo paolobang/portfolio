@@ -29,18 +29,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h1 align="center">Real Time Bus Tracker Project </h1>
+<h1 align="center">Portfolio Web</h1>
 
   <p align="center">
     <br />
-    <a href="https://github.com/pesorudy/Real-Time-Bus-Tracker" ><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/paolobang/portfolio.git" ><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://pesorudy.github.io/Real-Time-Bus-Tracker/" target="_blank">View Demo</a>
+    <a href="https://pesorudy.github.io/portfolio/" target="_blank">View Demo</a>
     ·
-    <a href="https://github.com/pesorudy/Real-Time-Bus-Tracker/issues">Report Bug</a>
+    <a href="https://github.com/paolobang/portfolio.git/issues">Report Bug</a>
     ·
-    <a href="https://github.com/pesorudy/Real-Time-Bus-Tracker/issues">Request Feature</a>
+    <a href="https://github.com/paolobang/portfolio.git/issues">Request Feature</a>
   </p>
 </div>
 
@@ -51,7 +51,7 @@
 
 
 
-This is is part of Professional Certificate in Coding: Full Stack Development with MERN by MIT. This project uses Javascript, CSS, HTML and MapBox Web Services API. The app shows the real time bus tracker in the city of Boston. The marker moves along the streets as the bus would. Also show some relevant information such as a Bus Number, their coordinates and last time location.
+This is is part of Professional Certificate in Coding: Full Stack Development with MERN by MIT. Here you will see my portfolio and bio about my career.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -79,7 +79,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/pesorudy/Real-Time-Bus-Tracker.git
+   git clone https://github.com/paolobang/portfolio.git.git
    ```
 2. Install NPM packages
    ```sh
@@ -95,8 +95,6 @@ To get a local copy up and running follow these simple example steps.
 
 This is only for academic use in order to understand javascript logic for capture mouse movements around the screen. 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -105,9 +103,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## :dart: Roadmap
 
 - [ ] Improve css style
-- [ ] Add more effects to the eyes
+- [ ] Form contact
 
-See the [open issues](https://github.com/pesorudy/Real-Time-Bus-Tracker/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/paolobang/portfolio.git/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -145,23 +143,23 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Rudy Huaman - [@pesorudy](https://twitter.com/pesorudy) - pesorudy@gmail.com
 
-Project Link: [https://github.com/pesorudy/Real-Time-Bus-Tracker](https://github.com/pesorudy/Real-Time-Bus-Tracker)
+Project Link: [https://github.com/paolobang/portfolio.git](https://github.com/paolobang/portfolio.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/pesorudy/Real-Time-Bus-Tracker.svg?style=for-the-badge
-[contributors-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/pesorudy/Real-Time-Bus-Tracker.svg?style=for-the-badge
-[forks-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/network/members
-[stars-shield]: https://img.shields.io/github/stars/pesorudy/Real-Time-Bus-Tracker.svg?style=for-the-badge
-[stars-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/stargazers
-[issues-shield]: https://img.shields.io/github/issues/pesorudy/Real-Time-Bus-Tracker.svg?style=for-the-badge
-[issues-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/issues
-[license-shield]: https://img.shields.io/github/license/pesorudy/Real-Time-Bus-Tracker.svg?style=for-the-badge
-[license-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/paolobang/portfolio.git.svg?style=for-the-badge
+[contributors-url]: https://github.com/paolobang/portfolio.git/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/paolobang/portfolio.git.svg?style=for-the-badge
+[forks-url]: https://github.com/paolobang/portfolio.git/network/members
+[stars-shield]: https://img.shields.io/github/stars/paolobang/portfolio.git.svg?style=for-the-badge
+[stars-url]: https://github.com/paolobang/portfolio.git/stargazers
+[issues-shield]: https://img.shields.io/github/issues/paolobang/portfolio.git.svg?style=for-the-badge
+[issues-url]: https://github.com/paolobang/portfolio.git/issues
+[license-shield]: https://img.shields.io/github/license/paolobang/portfolio.git.svg?style=for-the-badge
+[license-url]: https://github.com/paolobang/portfolio.git/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rudyhuaman/
 [product-screenshot]: /assets/screen.gif
