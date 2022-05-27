@@ -182,6 +182,8 @@ section .text-container .text-box h3{
     transform: translateY(150px);
     opacity: 0;
     transition: 1s all ease;
+    padding-top: 4rem;
+    padding-bottom: 3rem;
 }
   
 .reveal.active{
