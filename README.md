@@ -36,7 +36,7 @@
     <a href="https://github.com/paolobang/portfolio" ><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://pesorudy.github.io/portfolio/" target="_blank">View Demo</a>
+    <a href="https://paolobang.github.io/portfolio/" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/paolobang/portfolio/issues">Report Bug</a>
     ·
